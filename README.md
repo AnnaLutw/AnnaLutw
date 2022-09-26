@@ -8,9 +8,9 @@
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Ana-Banco de Dados" height="30" width="40" src="https://github.com/AnnaLutw/AnnaLutw/blob/main/workflows/iconBandoDeDados.png">
-  <img align="right" alt="Ana-pic" height="150" style="border-radius:100px;" src="https://github.com/AnnaLutw/AnnaLutw/blob/main/workflows/foto.JPG">
+  <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"">
+  <img align="center" alt="Ana-Banco de Dados" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="right" alt="Ana-img" height="150" style="border-radius:100px;" src="https://github.com/AnnaLutw/AnnaLutw/blob/main/workflows/foto.JPG">
 </div>
   
   ## Redes Sociais
