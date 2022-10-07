@@ -10,7 +10,7 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"">
   <img align="center" alt="Ana-Banco de Dados" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Ana-img" height="150" style="border-radius:100px;" src="https://github.com/AnnaLutw/AnnaLutw/blob/main/workflows/foto.JPG">
+  <img align="right" alt="Ana-img" height="150" style="border-radius:100px;" src="https://github.com/AnnaLutw/AnnaLutw/blob/main/workflows/foto (2).jpg">
 </div>
   
   ## Redes Sociais
