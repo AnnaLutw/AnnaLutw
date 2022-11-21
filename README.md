@@ -2,7 +2,7 @@
 
 
 
-💻 I've started my studies with programming in January 2022 and I´m loving it!\
+💻 I've started my studies with programming in March 2022 and I´m loving it!\
 🚀 I want to be a Full Stack Developer!\
 🌱 I have solid knowledge with HTM,CSS and JAVA I’m currently learning JavaScript, Node.Js, React and SpringBoot.\
 ✨ I'm third period of Analysis and Systems Development in PUCMG University, and I intend to graduate in July 2024.
