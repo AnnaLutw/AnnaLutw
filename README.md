@@ -4,8 +4,8 @@
 
 💻 I've started my studies with programming in March 2022 and I´m loving it!\
 🚀 I want to be a Full Stack Developer!\
-🌱 I have solid knowledge with HTM,CSS and JAVA I’m currently learning JavaScript, Node.Js, React and SpringBoot.\
-✨ I'm third period of Analysis and Systems Development in PUCMG University, and I intend to graduate in July 2024.
+🌱 I have solid knowledge with HTM,CSS and JavaScript I’m currently learning ,JAVA Node.Js, React and SpringBoot.\
+✨ I'm third period of Analysis and Systems Development in PUCMG University, and I intend to graduate in december 2024.
 
 <div align="center">
 <a href="https://github.com/AnnaLutw"><img width ="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=annalutw&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Stats"/></a>
