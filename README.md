@@ -1,9 +1,9 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there,+I´m+Ana+Silva.I´m+a+Full-Stack+Developer.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-💻 I've started my studies with programming in March 2022 and I´m loving it!  
-🚀 I want to be a Full Stack Developer!  
-🌱 I have solid knowledge with HTML, CSS, and JavaScript. I’m currently learning Java, Node.Js, React, and SpringBoot.  
-✨ I'm in the third period of Analysis and Systems Development at PUCMG University, and I intend to graduate in December 2024.
+🚀 I am a Full Stack Developer has 3 years!  
+💻 I've started my studies with programming in March 2022 and I love!  
+🌱 I have solid knowledge with Node, Python, HTML, Angular, Twig, JAVA.  
+✨ I'm in the last period of Analysis and Systems Development at PUCMG University.
 
 
 <div style="display: inline_block"><br>
